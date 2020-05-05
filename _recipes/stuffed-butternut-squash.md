@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Stuffed Butternut Squash"
-image: stuffed-butternut-squash.jpg
+# image: stuffed-butternut-squash.jpg
 yield: 1 portion
 # categories:
 # cuisines:

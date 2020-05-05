@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  Slow Roasted Turkey Drumstick
-image: slow-roasted-turkey-drumstick.jpg
+# image: slow-roasted-turkey-drumstick.jpg
 # yield: 1 leg
 categories: [dinner]
 # cuisines:

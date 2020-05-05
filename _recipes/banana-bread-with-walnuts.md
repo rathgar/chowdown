@@ -7,6 +7,9 @@ yield: 12 slices
 categories: [snack]
 diets: [Vegetarian]
 tags: [baking,cake]
+preptime: PT20M
+cooktime: PT1H
+
 # cuisines:
 
 ingredients:

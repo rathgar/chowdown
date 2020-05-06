@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Almond Milk"
-# image: focaccia.jpg
+image: almond-milk.jpg
 # imagecredit: Rue
 diets: [Vegan, LowLactose]
 tags: [milk]

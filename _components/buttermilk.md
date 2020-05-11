@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Buttermilk (yoghurt)"
-<!-- image: graham-cracker-crust.jpg -->
+# image: graham-cracker-crust.jpg
 imagecredit: Rue
 tags: [milk]
 

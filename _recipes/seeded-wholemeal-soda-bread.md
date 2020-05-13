@@ -8,6 +8,10 @@ categories: [Vegetarian]
 tags: [baking, bread]
 cuisines: [Irish]
 
+components:
+  - Buttermilk (yoghurt)
+  - Buttermilk (milk)
+
 ingredients:
   - 400ml Buttermilk
   - 450g wholemeal flour, plus extra for dusting
@@ -15,8 +19,6 @@ ingredients:
   - 1 tsp bicarbonate of soda
   - 1 tbsp black treacle
   - 450 ml buttermilk
-components:
-  - Buttermilk (yoghurt)
 
 directions:
   - Heat oven to 200°C/180°C fan

@@ -50,3 +50,6 @@ nutrition:
 One of my favourite things to have with a morning coffee.
 
 You can switch out the walnuts with pecans if you prefer. On occasion chocolate chips might find their way into the batter. Normally 50-100g is plenty, depending on your taste.
+
+notes:
+Try with less sugar next time. Maybe half.

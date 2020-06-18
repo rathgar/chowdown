@@ -5,8 +5,9 @@ title:  "Seeded wholemeal soda bread"
 image: seeded-wholemeal-soda-bread.jpg
 # imagecredit: Rue
 categories: [Vegetarian]
-tags: [baking, bread]
+tags: [baking, bread, bbcgoodfood]
 cuisines: [Irish]
+diets: [Vegan, Vegetarian]
 
 components:
   - Buttermilk (yoghurt)

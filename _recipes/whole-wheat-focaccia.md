@@ -9,15 +9,15 @@ diets: [Vegetarian, Vegan]
 tags: [baking, bread]
 
 ingredients:
-  - 2 cups Whole Wheat Flour
-  - 3/4-1 cup Warm Water
-  - 1 tsp Dry Yeast
-  - 1 tsp Salt
-  - 1 tbsp Honey or Sugar
-  - 1 tbsp Olive Oil
-  - 3 tbsp Olive Oil
-  - 1 tsp Oregano
-  - 1 handful Parmesan Cheese (optional)
+  - 3/4-1 cup warm water
+  - 1 tsp dry yeast
+  - 2 cups whole wheat flour
+  - 1 tsp salt
+  - 1 tbsp honey or sugar
+  - 1 tbsp olive oil
+  - 3 tbsp olive oil
+  - 1 tsp oregano
+  - 1 handful parmesan cheese (optional)
 
 directions:
   - Take warm water in a bowl, and sprinkle over honey and yeast and set aside for 5 mins.

@@ -33,6 +33,9 @@ directions:
   - pre-shape the loaves and cover for 15 mins
   - uncover for 10 mins
   - line a pair of bannetons
+  - preheat oven to 260° until thouroughly hot
+  - bake in a dutch overn for 20 mins
+  - Take off the lid of the dutch oven, reduce heat to 260° and bake for another 25-30 mins
 
 ---
 

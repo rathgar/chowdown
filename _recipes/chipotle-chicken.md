@@ -7,7 +7,7 @@ yield: 4 portions
 categories: [lunch, dinner, supper]
 cuisines: [Mexican]
 diets: [LowSalt]
-tags: [BBC]
+tags: [bbcgoodfood]
 
 preptime: PT20M
 cooktime: PT30M

@@ -4,6 +4,7 @@ layout: recipe
 title:  "Blackbean and Beetroot Burgers"
 image: blackbean-beetroot-burgers.jpg
 # imagecredit: Rue
+courses: [lunch,dinner]
 yield: ~12 burgers
 diets: [Vegetarian,Vegan]
 tags: [freeze,]

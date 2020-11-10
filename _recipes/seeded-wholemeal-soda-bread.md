@@ -4,7 +4,7 @@ layout: recipe
 title:  "Seeded wholemeal soda bread"
 image: seeded-wholemeal-soda-bread.jpg
 # imagecredit: Rue
-categories: [Vegetarian]
+courses: [Vegetarian]
 tags: [baking, bread, bbcgoodfood]
 cuisines: [Irish]
 diets: [Vegan, Vegetarian]

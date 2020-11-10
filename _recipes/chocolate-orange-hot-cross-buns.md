@@ -3,7 +3,7 @@ layout: recipe
 title: Chocolate Orange Hot Cross Buns
 image: choc-orange-hot-cross-buns.jpg
 # imagecredit: Rue
-categories: [Vegetarian]
+courses: [Vegetarian]
 tags: [baking]
 cuisines: [British]
 

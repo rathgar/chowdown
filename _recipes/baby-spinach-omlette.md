@@ -4,7 +4,7 @@ layout: recipe
 title:  "Baby Spinach Omlette"
 image: baby-spinach-omlette.jpg
 # imagecredit: Rue
-categories: [breakfast, lunch]
+courses: [breakfast, lunch]
 diets: [Vegetarian, LowLactose]
 cuisines: [Mediterranean]
 tags: [bupa]

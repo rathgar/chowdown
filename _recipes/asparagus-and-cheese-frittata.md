@@ -4,7 +4,7 @@ title: "Asparagus and Cheese Frittata"
 image: asparagus-cheese-frittata.jpg
 # imagecredit: Rue
 yield: 1 frittata
-categories: [breakfast, lunch]
+courses: [breakfast, lunch]
 cuisines: [Mediterranean]
 diets: [Vegetarian, LowLactose]
 tags: [bupa]

@@ -4,7 +4,7 @@ title: "Chipotle Chicken"
 image: chipotle-chicken.jpg
 # imagecredit:
 yield: 4 portions
-categories: [lunch, dinner, supper]
+courses: [lunch, dinner, supper]
 cuisines: [Mexican]
 diets: [LowSalt]
 tags: [bbcgoodfood]

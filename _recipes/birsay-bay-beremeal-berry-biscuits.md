@@ -3,7 +3,7 @@ layout: recipe
 title:  Birsay Bay Beremeal Berry Biscuits
 image: birsay-bay-beremeal-berry-biscuits.jpg
 # imagecredit: Rue
-categories: [snack]
+courses: [snack]
 cuisines: [British]
 diets: [Vegetarian]
 tags: [baking, biscuits]

@@ -4,7 +4,7 @@ title: Raw Chocolacte and Coconut Bars
 image: raw-chocolate-coconut-bars.jpg
 # imagecredit: https://rue.uk
 yield: 15 bars
-categories: [snack]
+courses: [snack]
 diets: [Vegetarian,Vegan]
 tags: [vitamix,bar]
 # cuisines:

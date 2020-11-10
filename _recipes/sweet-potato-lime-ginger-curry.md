@@ -3,7 +3,7 @@ layout: recipe
 title:  Sweet Potato Curry with Lime and Ginger
 image: sweet-potato-lime-ginger-curry.jpg
 yield: 2-3 persons
-categories: [lunch,dinner]
+courses: [lunch,dinner]
 cuisines: [Thai,Asian]
 diets: [Vegetarian,Vegan]
 # tags: []

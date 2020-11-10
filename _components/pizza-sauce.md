@@ -3,7 +3,7 @@ layout: recipe
 title:  Pizza Sauce
 # image: .jpg
 # yield:
-# categories: [lunch,snack,side]
+# courses: [lunch,snack,side]
 cuisines: [Italian]
 diets: [Vegetarian,Vegan]
 tags: [sauce]

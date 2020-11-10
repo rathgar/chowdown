@@ -4,7 +4,7 @@ layout: recipe
 title:  "Matured Christmas Cake"
 image: matured-christmas-cake.jpg
 yield: 12 slice cake
-categories: [snack, pudding]
+courses: [snack, pudding]
 cuisines: [English, British]
 diets: [Vegetarian]
 tags: [christmas, cake, fruitcake]

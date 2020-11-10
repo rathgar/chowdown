@@ -4,7 +4,7 @@ layout: recipe
 title:  Pizza Base
 image: pizza-base.jpg
 yield: 1 large pizza
-categories: [lunch,snack,dinner]
+courses: [lunch,snack,dinner]
 cuisines: [Italian]
 diets: [Vegetarian,Vegan]
 tags: [baking, bread]

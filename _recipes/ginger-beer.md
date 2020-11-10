@@ -8,6 +8,9 @@ diets: [Vegan]
 tags: [drink,beer]
 yield:
 
+components:
+  - Ginger Bug
+
 ingredients:
   - 4L water
   - 400g ginger

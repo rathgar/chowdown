@@ -7,6 +7,7 @@ image: almond-milk.jpg
 diets: [Vegan, LowLactose]
 tags: [milk, vitamix]
 yield: 1 litre
+preptime: PT12H
 
 ingredients:
   - 1 cup raw almonds

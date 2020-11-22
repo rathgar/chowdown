@@ -12,7 +12,7 @@ components:
   - Ginger Bug
 
 ingredients:
-  - 4L water
+  - 4l water
   - 400g ginger
   - 500g sugar
   - 3 star anise

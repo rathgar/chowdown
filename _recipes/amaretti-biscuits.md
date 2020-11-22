@@ -6,6 +6,8 @@ yield: 30 biscuits
 courses: [snack]
 cuisines: [Mediterranean]
 diets: [Vegetarian, GlutenFree]
+preptime: PT1H30M
+cooktime: PT25M
 
 ingredients:
   - 250g ground almonds

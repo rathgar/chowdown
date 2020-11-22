@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title: Raw Chocolacte and Coconut Bars
+title: Raw Chocolate and Coconut Bars
 image: raw-chocolate-coconut-bars.jpg
 # imagecredit: https://rue.uk
 yield: 15 bars

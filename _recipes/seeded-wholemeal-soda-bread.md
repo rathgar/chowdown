@@ -8,6 +8,8 @@ courses: [Vegetarian]
 tags: [baking, bread, bbcgoodfood]
 cuisines: [Irish]
 diets: [Vegan, Vegetarian]
+preptime: PT20M
+cooktime: PT30M
 
 components:
   - Buttermilk (yoghurt)

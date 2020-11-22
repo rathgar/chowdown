@@ -3,7 +3,7 @@
 layout: recipe
 title:  Slow Roasted Turkey Drumstick
 # image: slow-roasted-turkey-drumstick.jpg
-# yield: 1 leg
+yield: 1 leg
 courses: [dinner]
 # cuisines:
 # diets:
@@ -12,11 +12,14 @@ cooktime: PT3H
 
 ingredients:
   - 1 turkey drumstick
-  - [add some flavours here!]
+  - garlic
+  - rosemary
 
 directions:
   - heat oven to 140°C
+  - scatter garlic and rosemary, or Italian herbs all over the leg
   - wrap in foil
   - place on a tray and roast for 2-3hrs
 
 ---
+You don't actually even need to pre-heat the oven for this. It cooks so slowly it won't matter.

@@ -4,10 +4,10 @@ layout: recipe
 title:  Spiced Biscotti
 # image: spiced-biscotti.jpg
 yield: ~12 biscuits
-courses: [snack]
-cuisines: [Italian,Mediterranean]
+courses: [Snack]
+cuisines: [Italian, Mediterranean]
 diets: [Vegetarian]
-tags: [baking, biscuits]
+tags: [Baking, Biscuits]
 
 preptime: PT30M
 cooktime: PT45M

@@ -5,8 +5,8 @@ title:  Pizza Sauce
 # yield:
 # courses: [lunch,snack,side]
 cuisines: [Italian]
-diets: [Vegetarian,Vegan]
-tags: [sauce]
+diets: [Vegetarian, Vegan]
+tags: [Sauce, Condiment]
 
 ingredients:
   - 2 tins chopped tomatoes

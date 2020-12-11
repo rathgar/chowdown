@@ -6,8 +6,8 @@ title:  "Stuffed Butternut Squash"
 yield: 1 portion
 # categories:
 # cuisines:
-diets: [Vegetarian,GlutenFree]
-tags: [bupa]
+diets: [Vegetarian, GlutenFree]
+tags: [BUPA]
 
 ingredients:
 - 20g (1.5 Tbsp) Tomato, medium, ripe, chopped, small dice

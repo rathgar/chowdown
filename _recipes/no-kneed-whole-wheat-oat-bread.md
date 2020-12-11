@@ -4,10 +4,10 @@ layout: recipe
 title:  No Kneed Whole Wheat Oat Bread
 image: no-kneed-whole-wheat-oat-bread.jpg
 yield: 1 loaf
-courses: [lunch,snack,side]
+courses: [Lunch, Snack, Side]
 cuisines: []
-diets: [Vegetarian,Vegan]
-tags: [baking, bread]
+diets: [Vegetarian, Vegan]
+tags: [Baking, Bread]
 
 ingredients:
   - 2 cups cold water

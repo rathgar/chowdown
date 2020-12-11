@@ -4,10 +4,10 @@ layout: recipe
 title:  "Matured Christmas Cake"
 image: matured-christmas-cake.jpg
 yield: 12 slice cake
-courses: [snack, pudding]
+courses: [Snack, Dessert]
 cuisines: [English, British]
 diets: [Vegetarian]
-tags: [christmas, cake, fruitcake]
+tags: [Christmas, Cake, Fruitcake]
 
 ingredients:
   - 1kg mixed dried fruit (use a mix of raisins, sultanas, currants, cherries, cranberries, prunes or figs)

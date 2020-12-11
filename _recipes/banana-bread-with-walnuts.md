@@ -4,9 +4,9 @@ title: "Banana Bread with Walnuts"
 image: banana-bread-with-walnuts.jpg
 # imagecredit: https://rue.uk
 yield: 12 slices
-courses: [snack]
+courses: [Snack, Dessert]
 diets: [Vegetarian]
-tags: [baking,cake]
+tags: [Baking, Cake]
 preptime: PT20M
 cooktime: PT1H
 

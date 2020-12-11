@@ -3,10 +3,10 @@ layout: recipe
 title:  Artichoke Focaccia
 image: artichoke-focaccia.jpg
 # imagecredit:
-courses: [appetiser, entree, breakfast, snack, lunch, tiffin, dinner, supper]
+courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper]
 cuisines: [Mediterranean, Italian]
 diets: [Vegan, Vegetarian]
-tags: [baking, bread, bbcgoodfood]
+tags: [Baking, Bread, BBCGoodFood]
 yield: 10 slices
 
 nutrition:

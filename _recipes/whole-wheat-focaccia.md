@@ -3,10 +3,10 @@ layout: recipe
 title: "Whole Wheat Focaccia"
 image: whole-wheat-focaccia.jpg
 yield: 4-6 portions
-courses: [lunch, snack, side]
+courses: [Lunch, Snack, Side]
 cuisines: [Italian]
 diets: [Vegetarian, Vegan]
-tags: [baking, bread]
+tags: [Baking, Bread]
 
 ingredients:
   - 3/4-1 cup warm water

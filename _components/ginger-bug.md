@@ -4,7 +4,7 @@ title:  "Ginger Bug"
 image: ginger-bug.jpg
 # imagecredit: Rue
 diets: [Vegan]
-tags: [drink,beer]
+tags: [Drink, Beer]
 yield:
 
 ingredients:

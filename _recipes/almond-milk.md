@@ -5,7 +5,7 @@ title:  "Almond Milk"
 image: almond-milk.jpg
 # imagecredit: Rue
 diets: [Vegan, LowLactose]
-tags: [milk, vitamix]
+tags: [Milk, Vitamix]
 yield: 1 litre
 preptime: PT12H
 

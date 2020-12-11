@@ -3,10 +3,10 @@ layout: recipe
 title: "Easy Sourdough Loaves"
 image: easy-sourdough-loaves.jpg
 yield: 2 loaves
-courses: [lunch, snack, side]
-# cuisines: [Italian]
+courses: [Lunch, Snack, Side]
+# cuisines: [italian]
 diets: [Vegetarian, Vegan]
-tags: [baking, bread]
+tags: [Baking, Bread]
 
 components:
   - Sourdough Levain

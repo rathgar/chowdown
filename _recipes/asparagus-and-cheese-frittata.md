@@ -4,10 +4,10 @@ title: "Asparagus and Cheese Frittata"
 image: asparagus-cheese-frittata.jpg
 # imagecredit: Rue
 yield: 1 frittata
-courses: [breakfast, lunch]
+courses: [Breakfast, Lunch]
 cuisines: [Mediterranean]
 diets: [Vegetarian, LowLactose]
-tags: [bupa]
+tags: [BUPA]
 
 ingredients:
   - 2 medium eggs

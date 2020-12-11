@@ -4,10 +4,10 @@ layout: recipe
 title:  Pizza Base
 image: pizza-base.jpg
 yield: 1 large pizza
-courses: [lunch,snack,dinner]
+courses: [Lunch, Snack, Dinner]
 cuisines: [Italian]
-diets: [Vegetarian,Vegan]
-tags: [baking, bread]
+diets: [Vegetarian, Vegan]
+tags: [Baking, Bread]
 
 ingredients:
   - 1 cup whole-wheat flour

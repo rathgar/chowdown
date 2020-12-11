@@ -4,9 +4,9 @@ title: Raw Chocolate and Coconut Bars
 image: raw-chocolate-coconut-bars.jpg
 # imagecredit: https://rue.uk
 yield: 15 bars
-courses: [snack]
-diets: [Vegetarian,Vegan]
-tags: [vitamix,bar]
+courses: [Snack]
+diets: [Vegetarian, Vegan]
+tags: [Vitamix, Bar]
 # cuisines:
 preptime: PT30M
 cooktime: PT1H

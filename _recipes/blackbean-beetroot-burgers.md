@@ -4,10 +4,10 @@ layout: recipe
 title:  "Blackbean and Beetroot Burgers"
 image: blackbean-beetroot-burgers.jpg
 # imagecredit: Rue
-courses: [lunch,dinner]
+courses: [Lunch, Dinner]
 yield: ~12 burgers
-diets: [Vegetarian,Vegan]
-tags: [freeze,]
+diets: [Vegetarian, Vegan]
+tags: [Freeze]
 
 ingredients:
   - 400g cooked black beans

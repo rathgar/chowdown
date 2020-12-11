@@ -2,10 +2,10 @@
 
 layout: recipe
 title:  "Ginger Beer"
-image: ginger-beer.jpg
+image: gingerbeer.jpg
 # imagecredit: Rue
 diets: [Vegan]
-tags: [drink,beer]
+tags: [Drink, Beer]
 yield:
 
 components:

@@ -4,10 +4,10 @@ title: "Chipotle Chicken"
 image: chipotle-chicken.jpg
 # imagecredit:
 yield: 4 portions
-courses: [lunch, dinner, supper]
+courses: [Lunch, Dinner, Supper]
 cuisines: [Mexican]
 diets: [LowSalt]
-tags: [bbcgoodfood]
+tags: [BBCGoodFood]
 
 preptime: PT20M
 cooktime: PT30M

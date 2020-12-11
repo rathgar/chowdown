@@ -4,10 +4,10 @@ layout: recipe
 title:  "Baby Spinach Omlette"
 image: baby-spinach-omlette.jpg
 # imagecredit: Rue
-courses: [breakfast, lunch]
+courses: [Breakfast, Lunch]
 diets: [Vegetarian, LowLactose]
 cuisines: [Mediterranean]
-tags: [bupa]
+tags: [BUPA]
 
 ingredients:
   - 2 medium eggs

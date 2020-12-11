@@ -5,8 +5,8 @@ title:  "Seeded wholemeal soda bread"
 image: seeded-wholemeal-soda-bread.jpg
 # imagecredit: Rue
 courses: [Vegetarian]
-tags: [baking, bread, bbcgoodfood]
-cuisines: [Irish]
+tags: [Baking, Bread, BBCGoodFood]
+cuisines: [Irish, British]
 diets: [Vegan, Vegetarian]
 preptime: PT20M
 cooktime: PT30M

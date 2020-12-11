@@ -3,8 +3,8 @@ layout: recipe
 title: Classic White Focaccia
 image: classic-white-focaccia.jpg
 # imagecredit: Rue
-courses: [Lunch,Snack,Dinner,Side]
-tags: [baking, bread, bbcgoodfood]
+courses: [Lunch, Snack, Dinner, Side]
+tags: [Baking, Bread, BBCGoodFood]
 cuisines: [Mediterranean, Italian]
 diets: [Vegan, Vegetarian]
 yield: 12 slices

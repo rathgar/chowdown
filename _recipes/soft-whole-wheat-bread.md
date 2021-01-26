@@ -8,7 +8,7 @@ cuisines: [British]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 tags: [Bread]
 diets: [Vegetarian]
-yield: 2 loaves
+yield: 30 slices
 published: true
 
 ingredients:
@@ -38,6 +38,16 @@ directions:
   - Bake the loaves for 28-32 minutes, until golden brown.
   - Turn the loaves out onto a wire rack immediately, rub the tops of the loaves with butter if desired (this makes the crust a bit softer), and cool completely before slicing.
 
+nutrition:
+  servingSize: 1 slice
+  calories: 86
+  fatContent: 1
+  saturatedFatContent: 1
+  sodiumContent: 152
+  carbohydrateContent: 16
+  fiberContent: 2
+  sugarContent: 1
+  proteinContent: 3
 
 ---
 Adapted from: [Eat Bake Repeat](https://bake-eat-repeat.com/whole-wheat-bread-recipe/)

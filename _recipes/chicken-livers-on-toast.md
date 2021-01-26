@@ -3,8 +3,7 @@ layout: recipe
 title:  Chicken livers on toast
 image: chicken-livers-on-toast.jpg
 # imagecredit:
-#courses: [appetiser, entree, breakfast, snack, lunch, tiffin, dinner, supper]
-courses: [breakfast, snack, lunch, tiffin, supper]
+courses: [Breakfast, Snack, Lunch]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices

@@ -3,7 +3,7 @@ layout: recipe
 title:  Whole Roasted Cauliflower
 image: whole-roasted-cauliflower.jpg
 # imagecredit:
-courses: [lunch, dinner]
+courses: [Lunch, Dinner]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [GlutenFree, LowLactose, Vegan, Vegetarian]
 # yield: 4 slices

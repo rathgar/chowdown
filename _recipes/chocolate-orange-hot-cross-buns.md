@@ -5,7 +5,7 @@ image: choc-orange-hot-cross-buns.jpg
 # imagecredit: Rue
 diets: [Vegetarian]
 courses: [Breakfast, Snack]
-tags: [Baking]
+tags: [Baking, Easter]
 cuisines: [British]
 
 components:

@@ -56,4 +56,4 @@ nutrition:
 
 
 ---
-From: https://www.daringgourmet.com/traditional-nuernberger-elisenlebkuchen-german-lebkuchen/#wprm-recipe-container-42249
+From [Daring Gourmet](https://www.daringgourmet.com/traditional-nuernberger-elisenlebkuchen-german-lebkuchen/#wprm-recipe-container-42249)

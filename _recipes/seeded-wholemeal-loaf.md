@@ -6,7 +6,7 @@ image: seeded-wholemeal-loaf.jpg
 # courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper]
 cuisines: [British]
 diets: [Vegetarian]
-tags: [Bread, Baking, BBCGoodFood, Freezable]
+tags: [Bread, Baking, BBCGoodFood, Freeze]
 yield: 1 loaf (12 slices)
 published: true
 preptime: PT35M

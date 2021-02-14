@@ -9,6 +9,9 @@ courses: [Breakfast, Snack, Lunch]
 # yield: 4 slices
 tags: [BBCGoodFood]
 
+components:
+  - Easy Sourdough Loaves
+
 ingredients:
   - 250g chicken livers
   - 2 shallots, finely chopped
@@ -38,4 +41,4 @@ nutrition:
 ---
 From [BBC Good Food](https://www.bbcgoodfood.com/recipes/chicken-livers-toast)
 
-Have replaced vinegar with red wine vinegar.
+Can replace vinegar with red wine vinegar or old pickling vinegar.

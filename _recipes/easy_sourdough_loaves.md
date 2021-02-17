@@ -7,6 +7,9 @@ courses: [Lunch, Snack, Side]
 # cuisines: [italian]
 diets: [Vegetarian, Vegan]
 tags: [Baking, Bread]
+preptime: PT24H
+cooktime: PT50M
+totaltime: PT1D
 
 components:
   - Sourdough Starter
@@ -52,8 +55,8 @@ directions:
 
 ### (the next day)
 
-* 09:00 - Preheat oven with your dutch ovens in there from cold, to get them super hot, for one hour.
-* 10:00 - Optionally score, and bake your loaves. Keep them in the fridge until time to bake.
+* 09:00 - Preheat oven with your dutch ovens in there from cold, to get them super hot, for one hour. Keep loaves in the fridge until time to bake.
+* 10:00 - Optionally score, and bake your loaves.
 * Cool them on wire racks.
 
 

@@ -11,6 +11,17 @@ preptime: PT24H
 cooktime: PT50M
 totaltime: PT1D
 
+nutrition:
+  servingSize: per slice
+  calories: 202
+  fatContent: 1
+  saturatedFatContent: 0.2
+  carbohydrateContent: 41
+  sugarContent: 0.3
+  fiberContent: 2
+  proteinContent: 7
+  sodiumContent: 0.9
+
 components:
   - Sourdough Starter
   - Sourdough Levain

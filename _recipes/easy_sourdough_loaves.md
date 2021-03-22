@@ -59,10 +59,10 @@ directions:
 # Sample Schedule
 
 ### 09:00 Levain
-Start the levain and set aside
+ - Start the levain and set aside
 
 ### 14:25 - Begin Autolyse
-Mix the flours and leave to reset for final 30 minutes of the levain.
+ - Mix the flours and leave to reset for final 30 minutes of the levain.
 
 ### 15:00 - Mix your dough
  - Sprinkle the salt over the top of the dough.
@@ -75,18 +75,30 @@ Performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 
  - Fold 2
  - Fold 3
 
-### 19:00 - Preshape your loaves
+### 19:00 - Pre-shape your loaves
+
+- Divide the dough into two using a floured scraper.
+- Pre-shape each half using the scraper by pushing the edges under and gently turning the dough, until you get a neat dome.
+- Cover and leave to rest for 15 minutes
 
 ### 19:25 - Shape
-Form the loaves with pull & turn method and place them in their proofing baskets. Place them in plastic bags to prevent drying out, and proof them overnight in the fridge for 14-15 hours.
+- Form the loaves with pull & turn method.
+- Place them in their proofing baskets.
+- Cover with plastic bags to prevent drying out.
+- Proof them overnight in the fridge for 14-15 hours.
 
 ## The next day
 
+Keep loaves in the fridge until it's time to bake them in the oven. Cold to super hot.
+
 ### 09:00 - Preheat oven
-Place dutch ovens in there from cold, to get them super hot, for one hour. Keep loaves in the fridge until time to bake.
+- Place dutch ovens in the cold oven and preheat to 245°C for one hour.
 
 ### 10:00 - Bake
-Optionally score, and bake your loaves. Cool them on wire racks.
+- Optionally score
+- Bake your loaves for 20 mins, lid on
+- 25-30 mins lid off
+- Cool them on wire racks
 
 
 Originally from: Josh Weissman

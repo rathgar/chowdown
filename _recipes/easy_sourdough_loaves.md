@@ -34,6 +34,7 @@ ingredients:
   - 18g fine sea salt
 
 directions:
+  - prepare levain
   - mix all the flours in a large bowl by hand
   - add the water to the flour and mix until hydrated
   - cover and let sit for 30 mins
@@ -57,18 +58,35 @@ directions:
 
 # Sample Schedule
 
-* 09:00 - Start Levain
-* 14:25 - Begin Autolyse
-* 15:00 - Mix your dough, optionally use the rhubaud method
-* 15:15 - Bulk fermentation begins, performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 minutes after the 2nd fold. Totalling at 3 folds. Allow dough to rest for remainder of bulk fermentation
-* 19:00 - Preshape your loaves
-* 19:25 - Shape your loaves and place them in their proofing baskets. Place them in plastic bags to prevent drying out, and proof them overnight in the fridge for 14-15 hours.
+### 09:00 Levain
+Start the levain and set aside
 
-### (the next day)
+### 14:25 - Begin Autolyse
+Mix the flours and leave to reset for final 30 minutes of the levain.
 
-* 09:00 - Preheat oven with your dutch ovens in there from cold, to get them super hot, for one hour. Keep loaves in the fridge until time to bake.
-* 10:00 - Optionally score, and bake your loaves.
-* Cool them on wire racks.
+### 15:00 - Mix your dough
+ - Sprinkle the salt over the top of the dough.
+ - Spread the levain over and dimple with fingers and mix all together.
+ - optionally use the rhubaud method
+
+### 15:15 - Bulk fermentation
+Performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 minutes after the 2nd fold. Totalling at 3 folds. Allow dough to rest for remainder of bulk fermentation
+ - Fold 1
+ - Fold 2
+ - Fold 3
+
+### 19:00 - Preshape your loaves
+
+### 19:25 - Shape
+Form the loaves with pull & turn method and place them in their proofing baskets. Place them in plastic bags to prevent drying out, and proof them overnight in the fridge for 14-15 hours.
+
+## The next day
+
+### 09:00 - Preheat oven
+Place dutch ovens in there from cold, to get them super hot, for one hour. Keep loaves in the fridge until time to bake.
+
+### 10:00 - Bake
+Optionally score, and bake your loaves. Cool them on wire racks.
 
 
 Originally from: Josh Weissman

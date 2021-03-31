@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  Flour Paste
-image: choc-orange-hot-cross-buns.jpg
+image: flour-paste.jpeg
 # imagecredit: Rue
 tags: [baking,decoration]
 prepTime: PT3M

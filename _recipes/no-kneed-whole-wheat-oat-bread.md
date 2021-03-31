@@ -8,6 +8,9 @@ courses: [Lunch, Snack, Side]
 cuisines: []
 diets: [Vegetarian, Vegan]
 tags: [Baking, Bread]
+preptime: PT10M
+cooktime: PT50M
+totaltime: PT24H
 
 ingredients:
   - 2 cups cold water

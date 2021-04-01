@@ -7,8 +7,12 @@ courses: [Lunch, Dinner]
 cuisines: [Thai, Asian]
 diets: [Vegetarian, Vegan]
 # tags: []
+preptime: PT10M
+cooktime: PT20M
+totaltime: PT30M
 
 ingredients:
+  - 1 chilli (*optional*)
   - 1 inch of ginger
   - 2 cloves of garlic
   - 1 tsp coriander seeds

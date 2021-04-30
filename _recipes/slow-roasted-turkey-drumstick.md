@@ -8,7 +8,7 @@ courses: [Dinner]
 # diets:
 preptime: PT10M
 cooktime: PT3H
-published: true
+published: false
 
 ingredients:
   - 1 turkey drumstick

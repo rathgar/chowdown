@@ -53,27 +53,33 @@ directions:
   - take loaves from fridge and place in the oven - go from cold to hot
   - bake in a dutch oven for 20 mins
   - Take off the lid of the dutch oven, reduce heat to 245°C and bake for another 25-30 mins
-
 ---
 
 # Sample Schedule
 
+## Day 1
+
 ### 09:00 Levain
- - Start the levain and set aside
+
+- Start the levain and set aside
 
 ### 14:25 - Begin Autolyse
- - Mix the flours and leave to reset for final 30 minutes of the levain.
+
+- Mix the flours and leave to reset for final 30 minutes of the levain.
 
 ### 15:00 - Mix your dough
- - Sprinkle the salt over the top of the dough.
- - Spread the levain over and dimple with fingers and mix all together.
- - optionally use the rhubaud method
+
+- Sprinkle the salt over the top of the dough.
+- Spread the levain over and dimple with fingers and mix all together.
+- optionally use the rhubaud method
 
 ### 15:15 - Bulk fermentation
+
 Performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 minutes after the 2nd fold. Totalling at 3 folds. Allow dough to rest for remainder of bulk fermentation
- - Fold 1
- - Fold 2
- - Fold 3
+
+- Fold 1
+- Fold 2
+- Fold 3
 
 ### 19:00 - Pre-shape your loaves
 
@@ -82,6 +88,7 @@ Performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 
 - Cover and leave to rest for 15 minutes
 
 ### 19:25 - Shape
+
 - Form the loaves with pull & turn method.
 - Place them in their proofing baskets.
 - Cover with plastic bags to prevent drying out.
@@ -92,14 +99,16 @@ Performing 2 folds spaced 15 minutes apart, and then one last fold spaced by 30 
 Keep loaves in the fridge until it's time to bake them in the oven. Cold to super hot.
 
 ### 09:00 - Preheat oven
+
 - Place dutch ovens in the cold oven and preheat to 245°C for one hour.
 
 ### 10:00 - Bake
+
 - Optionally score
 - Bake your loaves for 20 mins, lid on
 - 25-30 mins lid off
 - Cool them on wire racks
 
-
 Originally from: Josh Weissman
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eod5cUxAHRM" frameborder="0" allow="" allowfullscreen></iframe>

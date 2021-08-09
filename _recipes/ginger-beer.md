@@ -4,8 +4,9 @@ layout: recipe
 title:  "Ginger Beer"
 image: gingerbeer.jpg
 # imagecredit: Rue
-diets: [Vegan]
-tags: [Drink, Beer]
+courses: [Drink]
+diets: [Vegan, Vegetarian]
+tags: [Beer, Fermented]
 yield:
 
 components:
@@ -32,4 +33,5 @@ directions:
   - Pour into sealable bottles or jugs that are 'pressure rated' - beer or pop bottles are great.
   - Let stand on your countertop at room temp (21ºC - 23ºC) for 1-3 days, depending on the level of carbonation and alcohol you are looking for.
   - Refrigerate and enjoy!
+
 ---

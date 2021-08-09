@@ -4,9 +4,10 @@ title:  "Ginger Bug"
 image: ginger-bug.jpg
 # imagecredit: Rue
 courses: [Drink]
-diets: [Vegan]
+diets: [Vegan, Vegetarian]
 tags: [Beer, Fermented]
-yield:
+
+# yield:
 
 ingredients:
   - 125g organic ginger

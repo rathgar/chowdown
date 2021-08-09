@@ -4,8 +4,11 @@ layout: null
 {% assign counter = 1 %}
 {% assign total = site.recipes | size %}
 [{% for post in site.recipes %}
+{% assign image_url =  %}
     {
-        "title": "{{ post.title }}",
-        "image": "{{ site.baseurl }}/images/{{ post.image }}"
+      "id":    "{{ post.slug }}",
+      "title": "{{ post.title }}",
+      "image": "{{ "/images/" | append: post.image | absolute_url }}",
+      "url":   "{{ post.url | absolute_url }}",
     }{% if counter == total %}{% else %},{% endif %}
 {% assign counter = counter |plus: 1 %}{% endfor %}]

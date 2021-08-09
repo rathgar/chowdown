@@ -6,6 +6,7 @@ image: kombucha.jpg
 courses: [Appetiser, Drink]
 cuisines: [Chinese]
 diets: [LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
+tags: [Fermented]
 yield: 2 litre
 published: true
 

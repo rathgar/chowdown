@@ -3,8 +3,9 @@ layout: recipe
 title:  "Ginger Bug"
 image: ginger-bug.jpg
 # imagecredit: Rue
+courses: [Drink]
 diets: [Vegan]
-tags: [Drink, Beer]
+tags: [Beer, Fermented]
 yield:
 
 ingredients:

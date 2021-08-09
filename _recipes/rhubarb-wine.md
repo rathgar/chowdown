@@ -3,9 +3,10 @@ layout: recipe
 title:  Rhubarb Wine
 image: rhubarb-wine.jpg
 # imagecredit:
-courses: [appetiser, lunch, tiffin, dinner]
+courses: [Appetiser, Lunch, Tiffin, Dinner, Drink]
 cuisines: [British]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
+tags: [Wine, Fermented]
 yield: 6 bottles
 published: true
 

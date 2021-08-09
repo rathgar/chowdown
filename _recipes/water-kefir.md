@@ -8,7 +8,7 @@ courses: [Appetiser, Drink]
 cuisines: [Mexican]
 diets: [LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices
-tags: [Probiotic, Tibicos]
+tags: [Probiotic, Tibicos, Fermented]
 published: true
 
 ingredients:

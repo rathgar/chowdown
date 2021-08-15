@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title:  Broccoli & Pea Soup
-image: broccoli-pea-soup.jpg
+image: broccoli-pea-soup.jpeg
 # imagecredit:
 courses: [Appetiser, Entree, Snack, Lunch, Tiffin, Dinner, Supper, Soup]
 cuisines: [British]

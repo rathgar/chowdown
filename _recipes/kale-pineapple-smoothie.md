@@ -3,7 +3,7 @@ layout: recipe
 title:  Kale and pineapple smoothie
 image: kale-pineapple-smoothie.jpg
 # imagecredit:
-courses: [breakfast, snack, smoothie]
+courses: [Breakfast, Snack, Smoothie]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [Diabetic, GlutenFree, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 yield: 4 glasses

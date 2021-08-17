@@ -5,6 +5,7 @@ image: low-sugar-marmalade.jpg
 # imagecredit:
 courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Supper, Condiment]
 cuisines: [Mediterranean, British]
+tags: [Preserve]
 # diets: [diabetic, glutenfree, halal, hindu, kosher, lowcalorie, lowfat, lowlactose, lowsalt, vegan, vegetarian]
 yield: 2.25 kg
 

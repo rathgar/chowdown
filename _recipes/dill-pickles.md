@@ -6,7 +6,7 @@ image: dill-pickles.jpg
 courses: [Appetiser, Entree, Condiment]
 cuisines: [British, American, Jewish]
 diets: [Kosher, LowCalorie, LowFat, Vegan, Vegetarian]
-tags: [Pickle]
+tags: [Pickle, Preserve]
 # yield: 4 slices
 published: true
 preptime: PT15M

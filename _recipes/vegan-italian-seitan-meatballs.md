@@ -3,7 +3,7 @@ layout: recipe
 title:  Vegan Italian Seitan Meatballs
 image: vegan-italian-seitan-meatballs.jpeg
 # imagecredit:
-courses: [lunch, dinner]
+courses: [Lunch, Dinner]
 cuisines: [Mediterranean]
 diets: [Vegan, Vegetarian]
 yield: 20 balls

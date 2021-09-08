@@ -10,6 +10,9 @@ tags: [Bread]
 diets: [Vegetarian]
 yield: 30 slices
 published: true
+preptime: PT15M
+cooktime: PT30M
+totaltime: PT2H45M
 
 ingredients:
   - 3/4 cup milk

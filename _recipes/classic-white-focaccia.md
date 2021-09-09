@@ -3,7 +3,7 @@ layout: recipe
 title: Classic White Focaccia
 image: classic-white-focaccia.jpg
 # imagecredit: Rue
-courses: [Lunch, Snack, Dinner, Side]
+courses: [Side]
 tags: [Baking, Bread, BBCGoodFood]
 cuisines: [Mediterranean, Italian]
 diets: [Vegan, Vegetarian]

@@ -3,7 +3,7 @@ layout: recipe
 title: "Mushroom and Rosemary Soup"
 image: mushroom-rosemary-soup.jpg
 yield: 2 bowls
-courses: [Soup, Starter, Lunch]
+courses: [Soup]
 # cuisines: [mediterranean]
 diets: [Vegetarian, Vegan]
 tags: [Vitamix]

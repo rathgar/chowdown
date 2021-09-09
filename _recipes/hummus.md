@@ -3,7 +3,7 @@ layout: recipe
 title:  Hummus
 image: hummus.jpg
 # imagecredit:
-courses: [Side, Dip]
+courses: [Side, Dip, Condiment]
 cuisines: [Mediterranean]
 diets: [Vegan, Vegetarian]
 # yield: 4 slices

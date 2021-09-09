@@ -3,7 +3,7 @@ layout: recipe
 title:  Low-Sugar Marmalade
 image: low-sugar-marmalade.jpg
 # imagecredit:
-courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Supper, Condiment]
+courses: [Breakfast, Condiment]
 cuisines: [Mediterranean, British]
 tags: [Preserve]
 # diets: [diabetic, glutenfree, halal, hindu, kosher, lowcalorie, lowfat, lowlactose, lowsalt, vegan, vegetarian]

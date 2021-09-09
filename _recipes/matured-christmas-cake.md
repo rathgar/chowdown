@@ -7,7 +7,7 @@ yield: 12 slice cake
 courses: [Snack, Dessert]
 cuisines: [English, British]
 diets: [Vegetarian]
-tags: [Christmas, Cake, Fruitcake]
+tags: [Christmas, Cake, Fruitcake, Baking]
 
 ingredients:
   - 1kg mixed dried fruit (use a mix of raisins, sultanas, currants, cherries, cranberries, prunes or figs)

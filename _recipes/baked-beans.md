@@ -3,7 +3,7 @@ layout: recipe
 title:  Baked Beans
 image: baked-beans.jpg
 # imagecredit:
-courses: [Breakfast, Snack, Lunch, Tiffin, Dinner, Supper]
+courses: [Breakfast, Snack, Lunch, Supper, Side]
 cuisines: [British]
 diets: [GlutenFree, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 tags: []

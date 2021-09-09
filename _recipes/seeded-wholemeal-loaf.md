@@ -3,10 +3,10 @@ layout: recipe
 title:  Seeded Wholemeal Loaf
 image: seeded-wholemeal-loaf.jpg
 # imagecredit:
-# courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper]
+courses: [Side]
 cuisines: [British]
 diets: [Vegetarian]
-tags: [Bread, Baking, BBCGoodFood, Freeze]
+tags: [Bread, Baking, BBCGoodFood, Freezer]
 yield: 1 loaf (12 slices)
 published: true
 preptime: PT35M

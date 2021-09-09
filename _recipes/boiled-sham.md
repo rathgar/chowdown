@@ -3,7 +3,7 @@ layout: recipe
 title: Boiled sHam
 image: boiled-sham.jpg
 # imagecredit:
-courses: [Breakfast, Snack, Lunch, Tiffin, Dinner, Supper]
+courses: [Breakfast, Snack, Lunch, Dinner, Supper]
 cuisines: [British]
 diets: [Vegan, Vegetarian]
 tags: [Experimental]

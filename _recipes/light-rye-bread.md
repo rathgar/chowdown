@@ -3,9 +3,9 @@ layout: recipe
 title: Light Rye Bread
 # image: .jpg
 yield: 8 slices
-courses: []
+courses: [Side]
 diets: [Vegetarian]
-tags: [Bread]
+tags: [Bread, Baking]
 published: false
 # ingredients:
 

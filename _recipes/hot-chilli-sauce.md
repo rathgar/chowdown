@@ -4,7 +4,7 @@ title:  Hot Chilli Sauce
 image: hot-chilli-sauce.jpg
 # imagecredit:
 courses: [Condiment]
-# cuisines: [Mediterranean, Irish, British, Mexican, French]
+cuisines: [Mexican]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices
 published: true

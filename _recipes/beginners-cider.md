@@ -6,7 +6,10 @@ image: beginners-cider.jpg
 courses: [Drink]
 cuisines: [British]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
+tags: [Fermented, Brewing]
 yield: 1 gallon
+preptime: PT1H
+totaltime: PT1W
 published: true
 
 ingredients:

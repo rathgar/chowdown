@@ -3,7 +3,7 @@ layout: recipe
 title:  Kombucha
 image: kombucha.jpg
 # imagecredit:
-courses: [Appetiser, Drink]
+courses: [Drink]
 cuisines: [Chinese]
 diets: [LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 tags: [Fermented]

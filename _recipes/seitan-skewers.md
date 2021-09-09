@@ -3,7 +3,7 @@ layout: recipe
 title:  Seitan Skewers
 image: seitan-skewers.jpg
 # imagecredit:
-courses: [Appetiser, Entree, Snack, Lunch, Dinner]
+courses: [Appetiser, Snack, Lunch, Dinner]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [Vegan, Vegetarian]
 yield: 6 skewers

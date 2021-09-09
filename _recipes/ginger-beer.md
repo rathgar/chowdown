@@ -6,7 +6,7 @@ image: gingerbeer.jpg
 # imagecredit: Rue
 courses: [Drink]
 diets: [Vegan, Vegetarian]
-tags: [Beer, Fermented]
+tags: [Beer, Fermented, Brewing]
 yield:
 
 components:

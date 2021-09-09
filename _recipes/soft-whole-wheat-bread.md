@@ -3,10 +3,10 @@ layout: recipe
 title:  Soft Whole Wheat Bread
 image: soft-whole-wheat-bread.jpg
 # imagecredit:
-courses: [Breakfast, Snack, Lunch, Tiffin, Supper]
+courses: [Side]
 cuisines: [British]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-tags: [Bread]
+tags: [Bread, Baking]
 diets: [Vegetarian]
 yield: 30 slices
 published: true

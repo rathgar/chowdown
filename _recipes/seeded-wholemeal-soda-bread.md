@@ -4,8 +4,8 @@ layout: recipe
 title:  "Seeded wholemeal soda bread"
 image: seeded-wholemeal-soda-bread.jpg
 # imagecredit: Rue
-courses: [Breakfast, Snack, Lunch, Tiffin, Supper]
-tags: [Baking, Bread, BBCGoodFood, Freeze]
+courses: [Side]
+tags: [Baking, Bread, BBCGoodFood, Freezer]
 cuisines: [Irish, British]
 diets: [Vegan, Vegetarian]
 preptime: PT20M

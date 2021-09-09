@@ -3,7 +3,7 @@ layout: recipe
 title:  Sauerkraut
 image: sauerkraut.jpg
 # imagecredit:
-courses: [Side]
+courses: [Side, Condiment]
 cuisines: [German]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 diets: [Vegan, Vegetarian]

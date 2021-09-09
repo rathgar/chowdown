@@ -3,7 +3,7 @@ layout: recipe
 title:  Dill Pickles
 image: dill-pickles.jpg
 # imagecredit:
-courses: [Appetiser, Entree, Condiment]
+courses: [Condiment]
 cuisines: [British, American, Jewish]
 diets: [Kosher, LowCalorie, LowFat, Vegan, Vegetarian]
 tags: [Pickle, Preserve]

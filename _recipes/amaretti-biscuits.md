@@ -6,6 +6,7 @@ yield: 30 biscuits
 courses: [Snack]
 cuisines: [Mediterranean]
 diets: [Vegetarian, GlutenFree]
+tags: [Baking, Biscuits]
 preptime: PT1H30M
 cooktime: PT25M
 

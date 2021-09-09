@@ -4,7 +4,7 @@ title:  Water Kefir (Tibicos)
 image: water-kefir.jpg
 # imagecredit:
 # courses: [appetiser, entree, breakfast, snack, lunch, tiffin, dinner, supper]
-courses: [Appetiser, Drink]
+courses: [Drink]
 cuisines: [Mexican]
 diets: [LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices

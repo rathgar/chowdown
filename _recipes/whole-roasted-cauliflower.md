@@ -6,9 +6,12 @@ image: whole-roasted-cauliflower.jpg
 courses: [Lunch, Dinner]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [GlutenFree, LowLactose, Vegan, Vegetarian]
-# yield: 4 slices
+yield: 4 portions
 published: true
 tags: [Christmas, Jamie-Oliver]
+preptime: PT10M
+cooktime: PT1H30M
+totaltime: PT1H45M
 
 ingredients:
   - 4 cloves of garlic
@@ -37,6 +40,7 @@ directions:
   - Drizzle with extra virgin olive oil, then carve up and serve with pilaf rice and steamed greens, or as part of a bigger spread.
 
 nutrition:
+  servingSize: portion
   calories: 205
   fatContent: 14.7
   saturatedFatContent: 1.8

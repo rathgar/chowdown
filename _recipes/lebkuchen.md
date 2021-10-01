@@ -6,7 +6,7 @@ imagecredit: Kimberly Killebrew
 courses: [Snack, Dessert]
 cuisines: [German]
 diets: [Vegetarian]
-tags: [Biscuits, Baking]
+tags: [Biscuits, Baking, Christmas]
 yield: 35 lebkuchen
 preptime: PT20M
 cooktime: PT25M

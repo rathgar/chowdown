@@ -1,8 +1,7 @@
 ---
 layout: recipe
 title:  Beginner's Cider
-# image: beginners-cider.jpg
-image: rhubarb-wine.jpg
+image: beginners-cider.jpg
 # imagecredit:
 courses: [Drink]
 cuisines: [British]

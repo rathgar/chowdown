@@ -9,6 +9,9 @@ tags: [Baking, Bread]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 yield: 2 bannocks
 published: true
+preptime: PT5M
+cooktime: PT5M
+totaltime: PT15M
 
 ingredients:
   - Milk or water

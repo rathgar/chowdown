@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Easy chocolate fudge cake
+title:  Easy Chocolate Fudge Cake
 image: easy-chocolate-fudge-cake.jpg
 # imagecredit:
 courses: [Dessert]

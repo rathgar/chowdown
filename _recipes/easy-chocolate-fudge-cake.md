@@ -3,9 +3,9 @@ layout: recipe
 title:  Easy chocolate fudge cake
 image: easy-chocolate-fudge-cake.jpg
 # imagecredit:
-courses: [Pudding]
+courses: [Dessert]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
-# diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
+diets: [Vegetarian]
 tags: [BBCGoodFood, Cake, Baking]
 yield: 8 slices
 preptime: PT25M

@@ -6,6 +6,7 @@ image: almond-milk.jpg
 # imagecredit: Rue
 diets: [Vegan, LowLactose]
 tags: [Milk, Vitamix]
+courses: [Drink]
 yield: 1 litre
 preptime: PT25M
 totaltime: PT12H

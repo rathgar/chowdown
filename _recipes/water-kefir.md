@@ -63,3 +63,13 @@ For fizzy water kefir, it is important to use something fully airtight in the se
 The water kefir is now ready to drink. Place your bottles in the fridge to cool. Be very careful when opening the bottles. Water kefir produces a very fizzy beverage.
 
 Water kefir will keep in the fridge for around 30 days unopened. Once opened, it is best consumed within 3 days.
+
+### Flavourings
+
+You can add pretty much any fruit to the kefir for second fermentation.
+
+Among my favourites of mine are:
+  - Squashed strawberries
+  - Squashed raspberries
+  - Blueberries
+  - Fresh mint sprigs

@@ -29,3 +29,9 @@ directions:
   - Start directions again :)
 
 ---
+
+# Flavourings
+
+At the second fermentation stage you can add additional flavourings if you like. Here are some of my favourites:
+
+  - Chopped fresh ginger

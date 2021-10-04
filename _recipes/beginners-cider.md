@@ -23,5 +23,6 @@ directions:
   - Put the pulp in a mesh bag and squeeze out the juice.
   - Fill a gallon demijohn to the shoulder and add a crushed campden tablet. Seal with a bung and airlock and leave for 24hrs.
   - After this time if there is some sediment it's probably best to decant to a new sterile demijohn before continuing. Add the yeast and leave until the bubbling stops. It can take 12 hours to start and anything from a week to finish.
+  - When finished, rack to a clean tub, add one cup of apple juice per gallon, mix and bottle. Leave for a few days before drinking.
 
 ---

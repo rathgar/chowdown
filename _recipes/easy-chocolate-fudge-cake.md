@@ -6,7 +6,7 @@ image: easy-chocolate-fudge-cake.jpg
 courses: [Pudding]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-tags: [BBCGoodFood]
+tags: [BBCGoodFood, Cake, Baking]
 yield: 8 slices
 preptime: PT25M
 cooktime: PT30M

@@ -7,7 +7,7 @@ image: blackbean-beetroot-burgers.jpg
 courses: [Lunch, Dinner]
 yield: ~12 burgers
 diets: [Vegetarian, Vegan]
-tags: [Freezer]
+tags: [Freezer, BBQ]
 
 ingredients:
   - 400g cooked black beans

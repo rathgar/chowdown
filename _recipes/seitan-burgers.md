@@ -6,6 +6,7 @@ image: seitan-burgers.jpeg
 courses: [Lunch, Dinner]
 cuisines: [Mediterranean]
 diets: [Vegan, Vegetarian]
+tags: [BBQ]
 yield: 15 burgers
 published: true
 preptime: PT25M

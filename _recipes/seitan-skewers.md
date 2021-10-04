@@ -6,6 +6,7 @@ image: seitan-skewers.jpg
 courses: [Appetiser, Snack, Lunch, Dinner]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [Vegan, Vegetarian]
+tags: [BBQ]
 yield: 6 skewers
 published: true
 

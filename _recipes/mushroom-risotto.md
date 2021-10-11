@@ -16,7 +16,7 @@ ingredients:
   - 300 g mushrooms halved or quartered
   - 1 bay leaf
   - 1-2 cloves of garlic
-  - half bag of risotto rice
+  - 250 g risotto rice
   - 1 large slug of vermouth
   - 1 onion, finely chopped
   - ~1 pint stock

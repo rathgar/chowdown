@@ -4,7 +4,7 @@ title: "Amaretti Biscuits"
 image: amaretti-biscuits.jpg
 yield: 30 biscuits
 courses: [Snack]
-cuisines: [Mediterranean]
+cuisines: [Mediterranean, Italian]
 diets: [Vegetarian, GlutenFree]
 tags: [Baking, Biscuits]
 preptime: PT1H30M

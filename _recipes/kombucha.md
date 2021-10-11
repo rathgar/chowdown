@@ -10,6 +10,14 @@ tags: [Fermented]
 yield: 2 litre
 published: true
 
+nutrition:
+  servingSize: 250ml
+  calories: 30
+  fatContent: 0.5
+  sodiumContent: 0.5
+  carbohydrateContent: 5
+  sugarContent: 5
+
 ingredients:
   - Kombucha scoby
   - 1800 ml non-chlorinated water

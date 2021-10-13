@@ -20,6 +20,7 @@ ingredients:
   - 1 large slug of vermouth
   - 1 onion, finely chopped
   - ~1 pint stock
+  - 1 cup frozen peas
   - chopped parsley
   - parmesan (optional)
   - Well flavoured baby tomatoes, chopped
@@ -29,6 +30,7 @@ directions:
   - Add the mushrooms and cook gently for 5 more mins.
   - Add the rice and coat well in the pan. Pour in a healthy slug of vermouth and boil it away.
   - Add a cup of stock and keep stirring. When it thickens add more stock and stir in. Repeat this until the rice is tender and the risotto is thick.
+  - Throw in the peas and stir. They don't really need much cooking so just heat for a minute or two.
   - Add some chopped parsley and cheese and leave to rest for a few mins. Serve and add the the rest on top. Scatter chopped tomatoes on the top.
 
 ---

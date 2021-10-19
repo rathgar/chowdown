@@ -5,7 +5,7 @@ image: sweet-chilli-sauce.jpg
 # imagecredit:
 courses: [Condiment]
 cuisines: [Japanese]
-# diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
+diets: [GlutenFree, Vegan, Vegetarian]
 tags: [BBCGoodFood]
 yield: 200 ml
 published: true

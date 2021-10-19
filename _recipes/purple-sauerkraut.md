@@ -6,6 +6,7 @@ image: purple-sauerkraut.jpg
 courses: [Condiment]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [GlutenFree, LowCalorie, LowFat, Vegan, Vegetarian]
+tags: [Michael-Mosley]
 # yield: 4 slices
 published: true
 preptime: PT15M

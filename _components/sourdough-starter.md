@@ -4,7 +4,7 @@ layout: recipe
 title:  "Sourdough Starter"
 # image:
 # imagecredit: Rue
-tags: [baking,bread]
+tags: [Baking, Bread]
 
 ingredients:
   - Organic rye flour

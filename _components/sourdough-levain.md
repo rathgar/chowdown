@@ -4,7 +4,7 @@ layout: recipe
 title:  "Sourdough Levain"
 # image:
 # imagecredit: Rue
-tags: [baking,bread]
+tags: [Baking, Bread]
 
 components:
   - Sourdough Starter

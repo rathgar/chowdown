@@ -7,7 +7,7 @@ courses: [Side, Condiment]
 cuisines: [German]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 diets: [Vegan, Vegetarian]
-tags: [Fermented, Preserve, Pickle]
+tags: [Fermented, Preserve, Pickle, Probiotic]
 yield: 600 g
 published: true
 

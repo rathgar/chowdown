@@ -8,6 +8,8 @@ cuisines: [Mediterranean, Italian]
 diets: [Vegan, Vegetarian]
 tags: [Baking, Bread, BBCGoodFood]
 yield: 10 slices
+preptime: PT1H30M
+cooktime: PT30M
 
 nutrition:
   calories: 269

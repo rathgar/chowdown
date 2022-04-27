@@ -45,7 +45,7 @@ directions:
 # Day 2
 ## Morning
 
-- Mix dough
+- Mix dough - add the levain to the water first, then add flour
 - Autolyse for 60 minutes at ~25C
 - Add an additional 30g water and 14g salt, and fold them into the dough
 - Wait 25 minutes
@@ -85,6 +85,7 @@ directions:
 # Dough
 - 650g Whole Wheat Flour
 - 575g Water ~25°C
+- 140g (all) yesterday's levain
 
 # Stretches & folds
 ## First set

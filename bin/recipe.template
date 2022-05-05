@@ -3,7 +3,7 @@ layout: recipe
 title:  {TITLE}
 image: {IMAGENAME}
 # imagecredit:
-# courses: [appetiser, entree, breakfast, snack, lunch, tiffin, dinner, supper]
+# courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper, Dessert]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices

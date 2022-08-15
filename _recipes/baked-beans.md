@@ -7,6 +7,7 @@ courses: [Breakfast, Snack, Lunch, Supper, Side]
 cuisines: [British]
 diets: [GlutenFree, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 tags: []
+preptime: PT12H
 cooktime: PT2H
 yield: 6 portions
 

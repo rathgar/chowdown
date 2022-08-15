@@ -2,7 +2,7 @@
 layout: recipe
 title:  Chickpea Curry
 image: chickpea-curry.jpg
-# imagecredit:
+imagecredit: https://www.bbcgoodfood.com/recipes/kadala-curry
 courses: [Lunch, Dinner]
 cuisines: [Indian]
 diets: [Vegan, Vegetarian]

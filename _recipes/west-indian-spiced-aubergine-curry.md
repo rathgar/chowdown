@@ -2,7 +2,7 @@
 layout: recipe
 title:  West Indian spiced aubergine curry
 image: west-indian-spiced-aubergine-curry.jpg
-# imagecredit:
+imagecredit: https://www.bbcgoodfood.com/recipes/west-indian-spiced-aubergine-curry
 courses: [Dinner]
 cuisines: [Indian]
 diets: [GlutenFree, LowFat, Vegan, Vegetarian]

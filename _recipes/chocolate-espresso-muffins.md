@@ -6,7 +6,7 @@ image: chocolate-espresso-muffins.jpg
 courses: [Dessert]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-tags: [Baking]
+tags: [Baking, Cake]
 yield: ~12 muffins
 published: true
 

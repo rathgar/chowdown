@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title: Bunkies
-image: bunkies.jpg
+title: Bonkies
+image: bonkies.jpg
 # imagecredit:
 courses: [Breakfast, Snack]
 cuisines: [Dutch, Netherlands]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-yield: 20 bunkies
+yield: 20 bonkies
 preptime: PT3H
 cooktime: PT15M
 tags: []

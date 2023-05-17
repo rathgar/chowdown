@@ -18,7 +18,7 @@ ingredients:
   - 100g plain flour
   - 50g oats
   - 2tbsp olive oil
-  - 2tbsp maple syrup
+  - 2tbsp maple syrup or honey
   - 1½ tsp salt
   - 1tsp yeast
   - 320g water

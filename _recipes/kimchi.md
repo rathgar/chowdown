@@ -2,6 +2,7 @@
 layout: recipe
 title: Kimchi
 image: kimchi.jpg
+published: true
 # imagecredit:
 courses:
   [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper, Dessert]
@@ -19,39 +20,28 @@ diets:
     Vegan,
     Vegetarian,
   ]
-# yield: 4 slices
-# preptime: PT5M
-# cooktime: PT5M
+yield: 2 liters
+preptime: PT2H30M
+# cooktime: PT0M
 tags: [Fermented]
 
-published: true
+components:
+  - Kimchi paste
 
 ingredients:
-  - 1 head of cabbage
-  - 2 medium sized carrots
+  - 2 head of cabbage
+  - 3 medium sized carrots
   - 1 small daikon radish
   - 1 bunch spring onion
-  - 1 large asian pear (250g)
-  - 6 cloves (20g) garlic, peeled
-  - 2 inch (82g) piece ginger, peeled
-  - 1/4 cup (60ml) fish sauce
-  - 1/3 cup (65g)  korean red pepper flakes
+  - kimchi paste
 
 directions:
-  - Run **bin/chowdown** command to create new **recipes**.
-  - Edit this file to reflect your lovely new recipe.
-  - Copy your images to the **images** folder. If you don't have any yet just comment out the image line above.
-# nutrition:
-#   servingSize:
-#   calories:
-#   carbohydrateContent:
-#   cholesterolContent:
-#   fatContent:
-#   fiberContent:
-#   proteinContent:
-#   saturatedFatContent:
-#   sodiumContent:
-#   sugarContent:
-#   transFatContent:
-#   unsaturatedFatContent:
+  - Slit the cabbages at the base and tear in half, then quaters. Then slice into 5cm wide hunks.
+  - Rub liberally with salt and leave in a large bowl turning occaisionally, for 1-2 hours.
+  - Rinse liberally to get all the salt off. Drain well.
+  - Julienne the carrots & daikon, and cut the spring onoin into 2cm chunks and add all to the bowl.
+  - Rub everything with the kimchi paste mixing well.
+  - Press into clean jars or onggi and leave at room temperature for a few days to get fermentation started. Jars should be sealed but allow gasses to escape.
+  - Each day press the top down to release gasses and keep the top moist.
+  - Store in the fridge for months.
 ---

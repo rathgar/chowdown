@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Hummus
+title: Hummus
 image: hummus.jpg
 # imagecredit:
 courses: [Side, Dip, Condiment]
@@ -14,15 +14,19 @@ totaltime: PT1H
 yield: 4 portions
 
 ingredients:
+  - 2 tbsp veg stock or water
   - 400g can chickpeas, drained
   - 80ml extra virgin olive oil
   - 1-2 fat garlic cloves, peeled and crushed
   - 1 lemon, juiced then ½ zested
   - 3 tbsp tahini
+  - salt to taste
 
 directions:
-  - Blend
-  - Adjust viscosity/taste.
+  - Warm the chickpeas in the stock
+  - Blend a bit
+  - Add garlic, tahini, lemon, and a few pinches of salt
+  - Keep blending, adding oil, tasting until you reach the texture and flavour you're looking for.
 
 nutrition:
   servingSize: serving
@@ -34,5 +38,4 @@ nutrition:
   fiberContent: 5
   proteinContent: 7
   sodiumContent: 0.01
-
 ---

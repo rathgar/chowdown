@@ -11,11 +11,11 @@ tags: [Vitamix]
 ingredients:
   - 1 cup water (or vegetable stock*)
   - 6 mushrooms
-  - 1/2 clove garlic
+  - ½ clove garlic
   - 1 handfull cashews
   - sprig Rosemary
   - chives
-  - 1/2 veg stock cube (optional*)
+  - ½ veg stock cube (optional*)
   - black pepper
   - Blue cheese (optional)
 

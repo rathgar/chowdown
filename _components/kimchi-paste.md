@@ -30,7 +30,7 @@ ingredients:
   - 6 cloves (20g) garlic, peeled
   - 2 inch (82g) piece ginger, peeled
   - 1 large asian pear (250g)
-  - 1/4 cup (60ml) fish sauce
+  - ¼ cup (60ml) fish sauce
   - 1/3 cup (65g) korean red pepper flakes or mix of chilli flakes, chipotle flakes, & smoked paprika
   - 1 tbsp flour
 

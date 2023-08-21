@@ -17,10 +17,10 @@ published: true
 
 ingredients:
   - 1 packet active yeast (7 grams)
-  - 2/3 cup warm water
+  - ⅔ cup warm water
   - 2 cups whole wheat flour
   - 1 tsp salt
-  - 1/2 tsp ground black pepper
+  - ½ tsp ground black pepper
   - 3 tbsp finely chopped fresh Rosemary
   - 2 tbsp olive oil
   - 100g Grana Padano / Parmagiano, finely grated

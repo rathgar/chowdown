@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Sweet Potato Curry with Lime and Ginger
+title: Sweet Potato Curry with Lime and Ginger
 image: sweet-potato-lime-ginger-curry.jpg
 yield: 2-3 portions
 courses: [Lunch, Dinner]
@@ -20,10 +20,9 @@ ingredients:
   - 1 bay leaf
   - 2 tsp ground turmeric
   - 1 lime, juice and zest
-  - 1/2 cup creamed coconut
+  - ½ cup creamed coconut
   - 2 large sweet potatoes, peeled and chopped into 2cm chunks
   - other veg - cauliflower, courgette, peppers, broccoli, etc.
-
 
 directions:
   - finely chop the ginger, garlic. Grind the coriander and cumin.
@@ -32,7 +31,6 @@ directions:
   - Add the sweet potatoes.
   - Pop on a lid and cook gently until it's time to add the remaining veg, depending on how long they take.
   - Serve with a fragrant rice
-
 ---
 
-If you like a little heat, you can add a chopped chilli  to the pan at the beginning.
+If you like a little heat, you can add a chopped chilli to the pan at the beginning.

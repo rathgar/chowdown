@@ -6,8 +6,8 @@ tags: []
 
 ingredients:
   - 2 oranges
-  - 1 1/2 cups sugar
-  - 1/2 cup water
+  - 1 ½ cups sugar
+  - ½ cup water
 
 directions:
   - Peel the oranges and remove the inside layer of pith

@@ -9,7 +9,7 @@ diets: [Vegetarian, Vegan]
 tags: [Baking, Bread]
 
 ingredients:
-  - 3/4-1 cup warm water
+  - ¾-1 cup warm water
   - 1 tsp dry yeast
   - 2 cups whole wheat flour
   - 1 tsp salt

@@ -15,13 +15,13 @@ cooktime: PT1H
 ingredients:
   - 3 bananas, ripe, smashed
   - 1/3 cup butter melted
-  - 3/4 cup sugar
+  - ¾ cup sugar
   - 1 egg beaten
   - seeds of half a vanilla pod or 1 tsp extract
   - 1 tsp baking soda
-  - 1/4 tsp salt
-  - 1 1/2 cups all-purpose flour
-  - 1/2 cup walnuts (or pecans) chopped
+  - ¼ tsp salt
+  - 1 ½ cups all-purpose flour
+  - ½ cup walnuts (or pecans) chopped
 
 directions:
   - Preheat the oven to 180°C

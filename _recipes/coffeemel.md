@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Coffeemel
+title: Coffeemel
 image: coffeemel.jpg
 # imagecredit:
 courses: [Drink]
@@ -18,7 +18,7 @@ ingredients:
   - 450g coarse grounds
   - 1.5kg honey
   - 3 star anise
-  - 1/2 pk yeast
+  - ½ pk yeast
 
 directions:
   - Cold press the coffee by soaking for 24hrs in cold water. Sieve to remove the grounds.
@@ -28,6 +28,4 @@ directions:
   - Leave til it stops bubbling then rack.
   - Rack again in a few months.
   - Bottle and condition.
-
-
 ---

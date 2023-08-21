@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Soft Whole Wheat Bread
+title: Soft Whole Wheat Bread
 image: soft-whole-wheat-bread.jpg
 # imagecredit:
 courses: [Side]
@@ -15,11 +15,11 @@ cooktime: PT30M
 totaltime: PT2H45M
 
 ingredients:
-  - 3/4 cup milk
+  - ¾ cup milk
   - 2 tbsp molasses (or brown sugar)
   - 2 tsp salt
   - 2 tbsp butter
-  - 1 1/2 cups warm water
+  - 1 ½ cups warm water
   - 3 cups whole wheat flour
   - 2 cups all purpose flour
   - 2 tsp instant yeast
@@ -51,6 +51,6 @@ nutrition:
   fiberContent: 2
   sugarContent: 1
   proteinContent: 3
-
 ---
+
 Adapted from: [Eat Bake Repeat](https://bake-eat-repeat.com/whole-wheat-bread-recipe/)

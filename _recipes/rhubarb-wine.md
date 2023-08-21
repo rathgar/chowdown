@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Rhubarb Wine
+title: Rhubarb Wine
 image: rhubarb-wine.jpg
 # imagecredit:
 courses: [Drink]
@@ -31,8 +31,8 @@ directions:
   - Add yeast and mix in well. Cover the primary fermentor and let sit overnight.
   - Siphon into secondary fermentor, add cinnamon (if desired), and attach airlock.
   - Rack at appropriate intervals.
-
 ---
+
 # Racking
 
 ## Dry Wine
@@ -44,15 +44,14 @@ directions:
 ## Sweet Wine
 
 - Rack at three weeks.
-- Add 1/2 cup sugar dissolved in 1 cup of wine. Stir in gently, and place back into the secondary fermentor.
+- Add ½ cup sugar dissolved in 1 cup of wine. Stir in gently, and place back into the secondary fermentor.
 - Repeat this process every six weeks until fermentation does not restart with the addition of sugar.
 - Rack every three months until one year old.
 - Bottle.
 
 # Notes
 
-* This Rhubarb Wine will taste the very best if you can refrain from drinking it for a year and a half from the date it was started.
-* You can also try brown sugar in the place of the white sugar for something different.
-
+- This Rhubarb Wine will taste the very best if you can refrain from drinking it for a year and a half from the date it was started.
+- You can also try brown sugar in the place of the white sugar for something different.
 
 From [Rhubarb Central](https://www.rhubarb-central.com/wines-rhubarb-wine-recipe.html)

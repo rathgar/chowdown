@@ -6,7 +6,7 @@ image: bonkies.jpg
 courses: [Breakfast, Snack]
 cuisines: [Dutch, Netherlands]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-yield: 20 bonkies
+yield: ~20 bonkies
 preptime: PT3H
 cooktime: PT15M
 tags: []
@@ -14,18 +14,17 @@ tags: []
 published: true
 
 ingredients:
-  - 350g wholemeal flour
-  - 100g plain flour
-  - 50g oats
-  - 2tbsp olive oil
-  - 2tbsp maple syrup or honey
+  - 350 g wholemeal flour
+  - 100 g plain flour
+  - 50 g oats
+  - 2 tbsp olive oil
+  - 2 tbsp maple syrup or honey
   - 1½ tsp salt
-  - 1tsp yeast
-  - 320g water
-  - 100g stem ginger
-  - 150g mixed nuts
-  - 50g dried cranberries
-  - 50g raisins
+  - 1 tsp yeast
+  - 320 g water
+  - 100 g stem ginger
+  - 150 g mixed nuts
+  - 100 g dried fruit
 
 directions:
   - Make up the dough.

@@ -11,6 +11,7 @@ yield: 6 bottles
 preptime: PT2D
 totaltime: PT1Y
 published: true
+alcoholContent: ~12
 
 ingredients:
   - 1.5-2kg sliced rhubarb

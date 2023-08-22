@@ -1,12 +1,12 @@
 ---
 layout: recipe
-title:  Seitan Burgers
+title: Seitan Burgers
 image: seitan-burgers.jpeg
 # imagecredit:
 courses: [Lunch, Dinner]
 cuisines: [Mediterranean]
 diets: [Vegan, Vegetarian]
-tags: [BBQ]
+tags: [BBQ, Burgers]
 yield: 15 burgers
 published: true
 preptime: PT25M
@@ -33,7 +33,6 @@ directions:
   - Pinch off some of the dough and massage into a pattie. Set aside. Repeat until all the dough is used up.
   - Steam the patties for 25 minutes, gently turning them halfway through. They will expand a bit when they steam. Once the steaming is done, you can either prepare them right away, or allow them to cool completely and store in an air-tight container in the fridge for up to 5 days, or freeze for later.
   - Pan fry or barbecue them to give them some colour and serve with your favourite sauce.
-
 #nutrition:
 #  servingSize: ~5 meatballs
 #  calories: 343
@@ -49,5 +48,4 @@ directions:
 #  #Vitamin C: 4mg
 #  #Calcium: 112mg
 #  #Iron: 6mg
-
 ---

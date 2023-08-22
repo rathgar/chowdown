@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Tomato Sauce / Salsa
+title: Tomato Sauce / Salsa
 image: tomato-sauce-salsa.jpg
 # imagecredit:
 courses: [Condiment]
@@ -27,6 +27,6 @@ ingredients:
 directions:
   - Finely chop onions and fry till softened
   - Add everything else and reduce
-
 ---
+
 This is really versatile sauce I use for everything including pizza bases, burger salsa, pasta sauce, etc. Keeps in a sealed jar in the fridge for a week or so.

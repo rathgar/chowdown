@@ -1,13 +1,12 @@
 ---
-
 layout: recipe
-title:  "Blackbean and Beetroot Burgers"
+title: "Blackbean and Beetroot Burgers"
 image: blackbean-beetroot-burgers.jpg
 # imagecredit: Rue
 courses: [Lunch, Dinner]
 yield: ~12 burgers
 diets: [Vegetarian, Vegan]
-tags: [Freezer, BBQ]
+tags: [Freezer, BBQ, Burgers]
 
 ingredients:
   - 400g cooked black beans
@@ -29,7 +28,6 @@ directions:
   - transfer the patty to a tray and repeat
   - freeze the patties
   - Fry in a skillet at a med-high heat for about 3-4mins per side, or until lightly browned.
-
 ---
 
 I call these **Beetburgers**. They are tasty and make a great quick lunch from freezer to plate within ten minutes.

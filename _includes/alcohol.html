@@ -1,0 +1,25 @@
+{% assign thisRecipe = include.recipe %} {% if thisRecipe.alcoholContent %}
+<div class="center ml2 mr2">
+  <div class="inline-block xs-m1 sm-m2">
+    <svg
+      class="gray align-middle"
+      xmlns="http://www.w3.org/2000/svg"
+      width="1.5rem"
+      height="1.5rem"
+      viewBox="0 0 512 512"
+      fill="currentColor"
+    >
+      <path
+        d="m436.58,51.68l-28.86,392.53c-.7,9.54-8.75,17.01-18.31,17.01H122.59c-9.57,0-17.61-7.47-18.31-17.01L75.42,51.68h361.17M490.39,1.68H21.61l32.81,446.19c2.63,35.71,32.37,63.35,68.18,63.35h266.82c35.81,0,65.55-27.63,68.18-63.35L490.39,1.68h0Z"
+        stroke-width="0"
+      />
+      <path
+        d="m390.15,198.09l-16.03,218.03c-.42,5.74-5.2,10.18-10.96,10.18h-214.31c-5.76,0-10.54-4.44-10.96-10.18l-16.04-218.03h268.3Z"
+        stroke-width="0"
+      />
+    </svg>
+    <span itemprop="recipeAlcohol">{{ thisRecipe.alcoholContent }}&nbsp;%</span>
+    <span class="blue caps align-middle">Alcohol</span>
+  </div>
+</div>
+{% endif %} {% assign thisRecipe = nil %}

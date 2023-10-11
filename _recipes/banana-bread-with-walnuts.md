@@ -14,7 +14,7 @@ cooktime: PT1H
 
 ingredients:
   - 3 bananas, ripe, smashed
-  - 1/3 cup butter melted
+  - ⅓ cup butter melted
   - ¾ cup sugar
   - 1 egg beaten
   - seeds of half a vanilla pod or 1 tsp extract

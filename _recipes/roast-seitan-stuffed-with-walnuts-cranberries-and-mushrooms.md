@@ -22,7 +22,7 @@ ingredients:
   - ½ teaspoon rubbed sage
   - generous grinding of pepper
   - 3 ounces whole wheat bread (about 2 slices), cut into small cubes
-  - 1/3 cup dried cranberries or cherries
+  - ⅓ cup dried cranberries or cherries
   - ¼ cup chopped walnuts or sunflower seeds, for nut-free
   - 1 teaspoon whole chia seeds or ground flax seed
   - 1 tablespoon soy sauce
@@ -33,7 +33,7 @@ ingredients:
   - 1 teaspoon dried thyme
   - 1 teaspoon rubbed sage
   - 1 teaspoon marjoram
-  - 1/3 cup quinoa flakes or quick oatmeal
+  - ⅓ cup quinoa flakes or quick oatmeal
   - 1 teaspoon chia seed or ground flaxseeds
   - 1 ½ cup vegetable broth
   - 1 cup great northern beans cooked

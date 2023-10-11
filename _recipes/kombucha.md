@@ -1,10 +1,10 @@
 ---
 layout: recipe
-title:  Kombucha
+title: Kombucha
 image: kombucha.jpg
 # imagecredit:
 courses: [Drink]
-cuisines: [Chinese]
+cuisines: [Chinese, Asian]
 diets: [LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 tags: [Fermented]
 yield: 2 litre
@@ -35,11 +35,10 @@ directions:
   - Funnel the remaining kombucha into bottles and seal. You can add additional flavourings at this point - I like fresh ginger.
   - Leave bottles at room temperature for another 3-5 days before refrigerating.
   - Start directions again :)
-
 ---
 
 # Flavourings
 
 At the second fermentation stage you can add additional flavourings if you like. Here are some of my favourites:
 
-  - Chopped fresh ginger
+- Chopped fresh ginger

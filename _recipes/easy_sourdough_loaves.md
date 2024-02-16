@@ -28,8 +28,7 @@ components:
 
 ingredients:
   - 500g all purpose unbleached flour
-  - 273g bread flour
-  - 175g stoneground wholewheat flour
+  - 450g stoneground wholewheat flour
   - 660g lukewarm water
   - 18g fine sea salt
 

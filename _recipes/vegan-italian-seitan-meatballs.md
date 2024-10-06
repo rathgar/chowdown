@@ -1,6 +1,6 @@
 ---
 layout: recipe
-title:  Vegan Italian Seitan Meatballs
+title: Vegan Italian Seitan Meatballs
 image: vegan-italian-seitan-meatballs.jpeg
 # imagecredit:
 courses: [Lunch, Dinner]
@@ -47,5 +47,4 @@ nutrition:
   #Vitamin C: 4mg
   #Calcium: 112mg
   #Iron: 6mg
-
 ---

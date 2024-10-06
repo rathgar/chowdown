@@ -23,6 +23,7 @@ ingredients:
   - 2 tbsp white miso paste
   - 2 teaspoon rice vinegar (apple cider vinegar or white wine vinegar)
   - 380 g vital wheat gluten
+  - 3-4 tbsp nutrityional yeast flakes
   - 1 teaspoon garlic powder
   - __Brine__
   - 3 cloves garlic (crushed)

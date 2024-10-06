@@ -1,7 +1,7 @@
 ---
 layout: recipe
-title:  "100% Whole wheat sourdough"
-image: 100-whole-wheat-sourdough.jpg
+title: "Spelt & wholewheat sourdough"
+image: spelt-wholewheat-sourdough.jpg
 # imagecredit:
 # courses: [appetiser, entree, breakfast, snack, lunch, tiffin, dinner, supper]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
@@ -14,9 +14,11 @@ components:
   - Sourdough Starter
 
 ingredients:
-  - Levain
-  - 650g Whole wheat flour
-  - 14g Salt
+  - 450g wholegrain spelt flour
+  - 50g rye flour
+  - 450g stoneground wholewheat flour
+  - 660g lukewarm water
+  - 18g fine sea salt
 
 directions:
   - Mix Levain
@@ -35,14 +37,16 @@ directions:
   - Bake for about another 15 minutes, until the desired level of browning is achieved.
   - Optionally, rotate loaves after 5-7 minutes to ensure even browning.
   - Allow loaves to cool on a wire rack for at least 1 hour before cutting into them.
-
 ---
+
 # Day 1
+
 ## Evening
 
 - Make the levain.
 
 # Day 2
+
 ## Morning
 
 - Mix dough - add the levain to the water first, then add flour
@@ -76,24 +80,28 @@ directions:
 - Optionally, rotate loaves after 5-7 minutes to ensure even browning.
 - Allow loaves to cool on a wire rack for at least 1 hour before cutting into them.
 
-
 # Levain
+
 - 25g Mature starter
 - 65g Flour whole/plain or mixed
 - 65g Water ~25°C
 
 # Dough
+
 - 650g Whole Wheat Flour
 - 575g Water ~25°C
 - 140g (all) yesterday's levain
 
 # Stretches & folds
+
 ## First set
+
 Pull the dough up stretching it as far as it will go without breaking and fold it over the top down to the other side. Do this eight times around the perimeter.
 
 On the fourth time flip the dough over before returning to warm place.
 
 ## Second set (coil folds)
+
 Lift the dough up allowing it to stretch down and fold it under itself. These are gentler and allow any air to remain in the dough. Do this twice each time at 90 degrees.
 
 # References

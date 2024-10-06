@@ -1,7 +1,7 @@
 ---
 layout: recipe
 title: Spelt and Quinoa Scones
-image: spelt-and-quinoa-scones.webp
+image: spelt-and-quinoa-scones.jpg
 imagecredit: "thetaste.ie"
 # courses: [Appetiser, Entree, Breakfast, Snack, Lunch, Tiffin, Dinner, Supper, Dessert]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]

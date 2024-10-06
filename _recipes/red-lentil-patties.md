@@ -9,7 +9,7 @@ diets: [Vegan, Vegetarian]
 yield: 4 slices
 preptime: PT10M
 cooktime: PT25M
-tags: [Zoe]
+tags: [ZOE]
 
 published: true
 
@@ -47,5 +47,10 @@ nutrition:
   saturatedFatContent: 1
   sugarContent: 2
 ---
+
+## ZOE scores
+
+Rue:
+Diane:
 
 Originally from [Ela Vegan](https://elavegan.com/red-lentil-patties/).

@@ -22,7 +22,7 @@ diets:
 yield: 4 portions
 preptime: PT5M
 cooktime: PT40M
-tags: [ocado]
+tags: [Ocado]
 
 published: true
 

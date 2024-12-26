@@ -74,12 +74,14 @@ layout: default
         <h4 class="blue mt0 mb2 xs-center">
           {{ site.translation[site.language].ingredients }}
         </h4>
-        <ul itemprop="ingredients">
-          <!-- list ingredients that make up recipe -->
-          {% for ingredient in page.ingredients %}
+        {% for section in page.ingredients %}
+        <h5>{{ section.first }}</h5>
+        <ul>
+          {% for ingredient in section offset:1 %}
           <li itemprop="recipeIngredient">{{ ingredient | markdownify }}</li>
           {% endfor %}
         </ul>
+        {% endfor %}
         {% endif %}
       </div>
 
@@ -87,11 +89,14 @@ layout: default
         <h4 class="blue mt0 mb2 xs-center">
           {{ site.translation[site.language].directions }}
         </h4>
+        {% for section in page.directions %}
+        <h5>{{ section.first }}</h5>
         <ul itemprop="recipeInstructions">
-          {% for direction in page.directions %}
+          {% for direction in section offset:1 %}
           <li>{{ direction | markdownify }}</li>
           {% endfor %}
         </ul>
+        {% endfor %}
       </div>
     </div>
     <!-- end recipe and directions -->

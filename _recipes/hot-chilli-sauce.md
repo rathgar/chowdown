@@ -3,12 +3,12 @@ layout: recipe
 title:  Hot Chilli Sauce
 image: hot-chilli-sauce.jpg
 # imagecredit:
-courses: [Condiment]
+courses: [Condiment, Seasoning]
 cuisines: [Mexican]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices
 published: true
-tags: [Experimental]
+tags: [Experimental, BBQ]
 
 ingredients:
   - Chillies

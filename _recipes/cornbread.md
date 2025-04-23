@@ -3,7 +3,7 @@ layout: recipe
 title:  Cornbread
 image: cornbread.jpg
 # imagecredit:
-courses: [Appetiser, Entree, Snack, Lunch, Tiffin, Dinner, Supper]
+courses: [Appetiser, Side, Entree, Snack, Lunch, Tiffin, Dinner, Supper]
 cuisines: [Native American]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 yield: 4 pieces

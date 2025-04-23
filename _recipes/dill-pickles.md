@@ -4,7 +4,7 @@ title:  Dill Pickles
 image: dill-pickles.jpg
 # imagecredit:
 courses: [Condiment]
-cuisines: [British, American, Jewish]
+cuisines: [American, Jewish, Mesopotamian]
 diets: [Kosher, LowCalorie, LowFat, Vegan, Vegetarian]
 tags: [Pickle, Preserve]
 # yield: 4 slices

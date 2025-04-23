@@ -3,7 +3,7 @@ layout: recipe
 title: Roast Seitan Stuffed with Walnuts, Cranberries, and Mushrooms
 image: roast-seitan-stuffed-with-walnuts-cranberries-and-mushrooms.jpg
 # imagecredit:
-courses: [lunch, dinner]
+courses: [Lunch, Dinner]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 diets: [Vegan, Vegetarian]
 published: true

@@ -4,7 +4,7 @@ title: Everything Bagels
 image: everything-bagels.jpg
 # imagecredit:
 courses: [Breakfast, Snack, Lunch]
-cuisines: [American, Jewish]
+cuisines: [Polish, Jewish]
 diets: [Kosher, Vegan, Vegetarian]
 yield: 8 bagels
 preptime: PT1H30M

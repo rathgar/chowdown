@@ -10,7 +10,7 @@ yield: 2-4 portions
 preptime: PT5M
 cooktime: PT20M
 totaltime: PT25M
-tags: [Curry]
+tags: [Curry,Fish]
 
 published: true
 

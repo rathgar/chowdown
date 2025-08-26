@@ -6,7 +6,7 @@ image: easy-paella.jpg
 courses: [Appetiser, Lunch, Dinner]
 cuisines: [Mediterranean]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
-tags: [BBCGoodFood]
+tags: [BBCGoodFood, Seafood, Shellfish, Fish]
 yield: 4 portions
 published: true
 preptime: PT10M

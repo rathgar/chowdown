@@ -7,7 +7,7 @@ courses: [Breakfast, Snack, Lunch]
 # cuisines: [Mediterranean, Irish, British, Mexican, French]
 # diets: [Diabetic, GlutenFree, Halal, Hindu, Kosher, LowCalorie, LowFat, LowLactose, LowSalt, Vegan, Vegetarian]
 # yield: 4 slices
-tags: [BBCGoodFood]
+tags: [BBCGoodFood, Chicken, Poultry]
 
 components:
   - Easy Sourdough Loaves

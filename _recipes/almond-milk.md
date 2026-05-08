@@ -19,7 +19,7 @@ ingredients:
 directions:
   - Soak the nuts overnight in water
   - Drain and rinse
-  - Put everything in a blender like Vitamix and blends of full for two minutes
+  - Put everything in a blender like Vitamix and blend on full for two minutes
   - Strain through a nut bag and chill in the fridge
 
 nutrition:
@@ -35,4 +35,4 @@ nutrition:
 
 ---
 Extraordinarily easy to make and if you buy your almonds in bulk it's a lot
-cheaper than shop bought these days. If it's too rich just add a little more water.
+cheaper than shop bought. If it's too rich just add a little more water.

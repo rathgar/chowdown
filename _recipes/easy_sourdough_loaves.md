@@ -28,7 +28,16 @@ components:
 
 ingredients:
   - 500g all purpose unbleached flour
+  - - Wheat
   - 450g stoneground wholewheat flour
+  - - Or
+  - 350g wholegrain spelt flour
+  - 75g whole grain rye flour
+  - 25g beremeal
+  - - Other ingredients  
+  - 660g lukewarm water
+  - 18g fine sea salt
+
   - 660g lukewarm water
   - 18g fine sea salt
 
